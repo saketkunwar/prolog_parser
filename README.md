@@ -3,8 +3,7 @@ prolog_parser
 Top Down parser
 
    Implementation of simple calculator using  top down parser
-in prolog.
-
+in prolog
 
 Usage:
 (debuggig the sample evaluation(i.e ex1,pex1) with gspy is recommended
@@ -23,4 +22,4 @@ for demonstration of parsing.
 	the explicitly created syntax tree with mknode and mkleaf.
 	will also evaluate and print results
 
-	ct- automatic parse table creation(will output to file 			table.pl)(experimental)
+	ct- automatic parse table creation(will output to file 	table.pl)(experimental)
