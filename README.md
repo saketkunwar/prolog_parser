@@ -3,7 +3,7 @@ prolog_parser
 Top Down parser
 
    Implementation of simple calculator using  top down parser
-in prolog
+   (with parse table) in prolog
 
 Usage:
 (debuggig the sample evaluation(i.e ex1,pex1) with gspy is recommended
