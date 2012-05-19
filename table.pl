@@ -1,0 +1,16 @@
+mt(n(e),t((),[n(t),n(ep)]).
+mt(n(e),t(Id),[n(t),n(ep)]).
+mt(n(t),t((),[n(f),n(tp)]).
+mt(n(t),t(Id),[n(f),n(tp)]).
+mt(n(f),t((),[t((),n(e),t())]).
+mt(n(f),t(Id),[t((),n(e),t())]).
+mt(n(ep),t(+),[t(+),n(t),n(ep)]).
+mt(n(ep),t(-),[t(+),n(t),n(ep)]).
+mt(n(tp),t(*),[t(*),n(f),n(tp)]).
+mt(n(tp),t(/),[t(*),n(f),n(tp)]).
+mt(n(ep),t()),[t(+),n(t),n(ep)]).
+mt(n(ep),t($),[t(+),n(t),n(ep)]).
+mt(n(tp),t(+),[t(*),n(f),n(tp)]).
+mt(n(tp),t(-),[t(*),n(f),n(tp)]).
+mt(n(tp),t()),[t(*),n(f),n(tp)]).
+mt(n(tp),t($),[t(*),n(f),n(tp)]).
